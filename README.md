@@ -9,5 +9,5 @@ The dataset is from Kaggle's San Francisco crime.
 'sf_crime_time_series' for temporal analysis, using python
 <br>
 <br>
-![my image](https://plot.ly/~lingcheng99/0/counts-of-crime-by-category/)
+![my image](https://plot.ly/~lingcheng99/0/counts-of-crime-by-category)
 
